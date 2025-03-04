@@ -13,5 +13,3 @@
 **MENTOR NAME**: NEELA SANTOSH
 
 **This system converts spoken language into text using Google Speech Recognition API and Facebook’s Wav2Vec2 model. The Google API provides quick online transcription, while Wav2Vec2 enables offline, deep-learning-based speech-to-text conversion. The script loads an audio file, processes it into a suitable format, and transcribes it into text. This tool is valuable for creating voice-controlled applications, automated transcription services, and accessibility solutions.**
-
-**OUTPUT**
